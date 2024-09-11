@@ -1,0 +1,53 @@
+
+body {
+    background-color: rgb(42, 43, 44);
+    color: aliceblue;
+}
+#toggleButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+h5 {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(173, 114, 221);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding: 40px;
+}
+
+a {
+    color: rgb(42, 43, 44);
+}
+
+a:hover {
+    color: rgb(173, 114, 221);
+    font-size: 20px;
+}
+
+.container {
+    display: grid;
+    place-items: center;
+    }
+
+button{
+    display: grid;
+    place-items: center;
+}
